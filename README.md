@@ -6,6 +6,6 @@ The files are containing the code used for generating the results reported in th
 
 They also contain:
 
-1) a raw .set and the respective final .erp data from an anonymized participant of Study1
-2) a raw .set data from a participant of Study 2, and the BIOPAC outputs needed for running "task_accuracy" script (event_ECG, inhale_exhale, tapping_time)
+1) a final .erp data of an anonymized participant of Study1
+2) the BIOPAC outputs needed for running "task_accuracy" script (event_ECG, inhale_exhale, tapping_time) of a participant of Study2
 
