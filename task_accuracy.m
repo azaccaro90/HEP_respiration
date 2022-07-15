@@ -200,8 +200,6 @@ mean_exhale_freq = mean(exhale_freq); % mean HR during exhalation
 
 %% Accuracy exhale
 
-% calcola accuratezza exhale
-
 total_correct_69_exhale = [];
 total_correct_betw_exhale = [];
 total_correct_94_exhale = [];
